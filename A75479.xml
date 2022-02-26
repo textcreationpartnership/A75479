@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antiquity of Englands superiority over Scotland. And the equity of incorporating Scotland, or other conquered nation, into the Commonwealth of England. With parallels to our former transactions with Wales, and Ireland. And illustrations out of the Scottish, English, Jewish, Grecian, Assyrian, and Roman histories. / By a well-wisher to this commonwealth.</title>
+            <author>Well-wisher to this commonwealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75479</idno>
+            <idno type="STC">Wing A3508</idno>
+            <idno type="STC">Thomason E668_17</idno>
+            <idno type="STC">ESTC R206979</idno>
+            <idno type="EEBO-CITATION">99866057</idno>
+            <idno type="PROQUEST">99866057</idno>
+            <idno type="VID">118317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E668[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antiquity of Englands superiority over Scotland. And the equity of incorporating Scotland, or other conquered nation, into the Commonwealth of England. With parallels to our former transactions with Wales, and Ireland. And illustrations out of the Scottish, English, Jewish, Grecian, Assyrian, and Roman histories. / By a well-wisher to this commonwealth.</title>
+                  <author>Well-wisher to this commonwealth.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  Civilization --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118317:1" rendition="simple:additions"/>
+            <p>THE ANTIQUITY OF ENGLANDS <hi>Superiority over</hi> SCOTLAND.</p>
+            <p>AND The Equity of Incorporating <hi>Scotland,</hi> or other Conquered Nation, into the Commonwealth of <hi>ENGLAND.</hi>
+            </p>
+            <p>WITH Parallels to our former Tranſactions with <hi>WALES,</hi> and <hi>IRELAND.</hi>
+            </p>
+            <p>AND Illuſtrations out of the <hi>Scottiſh, Engliſh, Jewiſh, Grecian, Aſſyrian,</hi> and <hi>Roman</hi> Hiſtories.</p>
+            <p>
+               <hi>By a Well-wiſher to this</hi> Commonwealth.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Ibbitſon,</hi> 1652. <add>June .28.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118317:2"/>
+            <pb n="1" facs="tcp:118317:2"/>
+            <head>The <hi>Antiquity</hi> of the <hi>Superiority</hi> of <hi>England</hi> over <hi>Scotland.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat</hi> Scotland <hi>was anciently an Appendix, Province, or ſubjected ſtate, to</hi> England, <hi>ap<g ref="char:EOLhyphen"/>peareth thus:</hi>
+            </p>
+            <p n="1">1 Wee finde in <hi>Marianus</hi> (a <hi>Scotch</hi> Writer) his Hiſtory, that before the Con<g ref="char:EOLhyphen"/>queſt, <hi>Edward</hi> the ſonne of King <hi>Alured</hi> had the King of <hi>Scots</hi> under his obedience, as the ſaid <hi>Marianus confeſſeth.</hi>
+            </p>
+            <p n="2">2 After him, <hi>Athelſtan</hi> King of <hi>England,</hi> diſpoſed of the Crowne of <hi>Scotland</hi> to one <hi>Conſtantine.</hi>
+            </p>
+            <p n="3">3 Some foure and twenty years after King <hi>Eldred</hi> tooke homage of the King of <hi>Scots.</hi>
+            </p>
+            <p n="4">4 After thirty yeers more, King <hi>Edgar</hi> received ho<g ref="char:EOLhyphen"/>mage from <hi>Kinabe,</hi> King of <hi>Scots.</hi>
+            </p>
+            <p n="5">5 About the yeer of our Lord Chriſt 1018. <hi>Malcolm</hi> King of <hi>Scotland,</hi> did homage to King <hi>Canutus.</hi>
+            </p>
+            <p n="6">6 About the yeer 1056. King <hi>Edward</hi> the <hi>Confeſſor,</hi> depoſed the ſaid <hi>Malcolm</hi> King of <hi>Scots,</hi> and put his ſonne <hi>Malcolm</hi> into his fathers Throne, from whom the ſaid King <hi>Edward</hi> received homage.</p>
+            <p n="7">7 There was another <hi>Malcolm</hi> that did homage to <hi>William</hi> the <hi>Conquerour.</hi>
+            </p>
+            <p n="8">8 As alſo the ſame <hi>Malcolm</hi> did the like homage to <hi>William Rufus.</hi>
+            </p>
+            <p n="9">
+               <pb n="2" facs="tcp:118317:3"/> 9 About ſeven yeers after <hi>Edgar</hi> King of <hi>Scotland</hi> did homage to our <hi>Henry</hi> the <hi>firſt.</hi>
+            </p>
+            <p n="10">10 The like did <hi>David</hi> King of <hi>Scots,</hi> to our King <hi>Stephen.</hi>
+            </p>
+            <p n="11">11 Alſo <hi>William</hi> King of <hi>Scots</hi> did homage to our <hi>Henry</hi> the ſecond.</p>
+            <p n="12">12 And after the ſame <hi>William</hi> came into <hi>England</hi> as far as <hi>Canterbury</hi> to doe homage to <hi>Richard</hi> the <hi>firſt.</hi>
+            </p>
+            <p n="13">13 And after that neer to <hi>Lincoln,</hi> to performe ho<g ref="char:EOLhyphen"/>mage to King <hi>John.</hi>
+            </p>
+            <p n="14">14 Homage was done to our <hi>Henry</hi> the <hi>third,</hi> by <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> King of <hi>Scots.</hi>
+            </p>
+            <p n="15">15 And <hi>Alexander</hi> the ſonne of the ſaid <hi>Alexander</hi> did homage to our <hi>Edward</hi> the <hi>firſt.</hi>
+            </p>
+            <p n="16">16 After him <hi>John Baliol</hi> King of <hi>Scots</hi> did homage to the ſame <hi>Edward</hi> the <hi>firſt.</hi>
+            </p>
+            <p n="17">17 In <hi>Edward</hi> the <hi>ſeconds</hi> time it was omitted by rea<g ref="char:EOLhyphen"/>ſon of the civill broyles, and infirmities of <hi>Edward</hi> the <hi>ſecond;</hi> but to <hi>Edward</hi> the <hi>third</hi> was homage againe paid by <hi>Edward Baliol</hi> King of <hi>Scots,</hi> upon whom he beſtowed the Kingdome of <hi>Scotland</hi> as a <hi>gift.</hi>
+            </p>
+            <p>After him the Civil wars of <hi>England</hi> coming on, and our Nation being taken up with conteſts about Title at home, it had little <hi>liſt</hi> or <hi>leaſure</hi> to make good the ho<g ref="char:EOLhyphen"/>mage due from <hi>Scotland,</hi> and our Title to it.</p>
+            <p>And thus you ſee what right wee have had of old to <hi>Scotland,</hi> which right now deſcends to the people of <hi>England</hi> (in whoſe right alone, our Kings held all they poſſeſſed) and is now more firme then ever, being reco<g ref="char:EOLhyphen"/>vered againe, by a totall conqueſt of the ſword.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:118317:3"/>
+               <head>
+                  <hi>The Equity of Incorporating</hi> Scotland, <hi>or other Conquered Nation, into the Commonwealth of</hi> England.</head>
+               <p>HAving ſeen the right of <hi>England</hi> to their Superio<g ref="char:EOLhyphen"/>rity over <hi>Scotland;</hi> And having now attained <hi>jus inre</hi> as well as <hi>jus ad rem,</hi> a full poſſeſſion of what wee have a right to, the next Vertue to our <hi>Valour</hi> is our <hi>prudence</hi> to keep what we have won.</p>
+               <p>There are but two wayes chiefly, of holding and maintaining of a Conqueſt over a neighbour Nation.</p>
+               <p n="1">1 Either by a powerfull reſtraint, and conſtraint un<g ref="char:EOLhyphen"/>der the Superiority of the Conquerour, the ſaid con<g ref="char:EOLhyphen"/>quered as a diſtinct Nation.</p>
+               <p n="2">2 Or by an amicable invitation of the conquered unto an Integration and Incorporation into the Respublick of the Conqueror, ſo as to ſit and vote with that conquering Commonweale in their Law-making, and paramount Aſſemblies, or Repreſentatives.</p>
+               <p>Some have conceived, that by reaſon it is generally ſuſpected that the <hi>Scots</hi> have been formerly for many ge<g ref="char:EOLhyphen"/>nerations complexionated, and as it were naturalized in<g ref="char:EOLhyphen"/>to an inveterate and ſtrong Antipathy againſt the <hi>Engliſh,</hi> the onely way were to retaine them under force as a ſub<g ref="char:EOLhyphen"/>jugated people to <hi>England.</hi>
+               </p>
+               <p>But firſt againſt this, wee muſt ballance two great at<g ref="char:EOLhyphen"/>tempt that muſt neceſſarily concur to that courſe, which though very <hi>feiſable</hi> for the power of <hi>England,</hi> yet too <hi>unbecoming</hi> and <hi>unſeemly</hi> (if not unrighteous and irreligi<g ref="char:EOLhyphen"/>ous) in the eyes of ſo <hi>ingenuous candid</hi> and <hi>pious</hi> a Con<g ref="char:EOLhyphen"/>querour as <hi>England</hi> is, and have all along ſhewed them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>For wee cannot well hold a conquered people under
+<pb n="4" facs="tcp:118317:4"/>force as a diſtinct Nation, unleſſe wee ſhould firſt drive away their contrary minded <hi>Miniſters.</hi> Secondly, Ex<g ref="char:EOLhyphen"/>tirpate their <hi>Grandees</hi> in intereſt with the people.</p>
+               <p>The non-doing of which two, hath made it ſo <hi>difficult</hi> (as ſome have conceived) for <hi>England</hi> formerly to hold <hi>Scotland</hi> as a diſtinct Nation in ſubjection to <hi>England;</hi> and ſo <hi>troubleſome</hi> and <hi>chargeable</hi> to hold <hi>Ireland</hi> to their duty to <hi>England.</hi> And therefore this courſe did the harſh Heathen <hi>Aſſyrian</hi> conquerours take with the <hi>Jewes,</hi> in their ſeverall captivities, carrying away all their Mini<g ref="char:EOLhyphen"/>ſters, and ſecular men of note, for the generall, quite from their own Country.</p>
+               <p>Secondly, if a Conquerour ſhould dare to doe both thoſe, yet would it bee almoſt impoſsible, without in<g ref="char:EOLhyphen"/>finite expence, and labour to retaine a conquered Nation under force, becauſe as long as you ſo keep them, as a ſeparate and diſtinct Nation, ſevered in point of common intereſt and priviledge, ſo long alſo occaſion is repreſen<g ref="char:EOLhyphen"/>ted and miniſtred unto them (as before their eyes) freſhly and affectionately to remember their old condition, and to revive their Antipathy either to an anti-acting to the utmoſt as oft as opportunity opens it ſelf, or to a ſluggiſh non-acting for the peace and welfare of the Miſtreſſe Commonweale. The <hi>Greeks</hi> found this true of the <hi>Jews</hi> in the wars of the <hi>Maccabees.</hi> And ſo did the <hi>Romans</hi> in the oft inſurrections of the <hi>Jews</hi> in the time of <hi>Veſpaſian,</hi> and <hi>Adrian</hi> and <hi>Conſtantine</hi> the <hi>Roman</hi> Emperours.</p>
+               <p>The <hi>Romans</hi> therefore learning this experience of the <hi>Jewes,</hi> as alſo of their neerer neighbours whom they ſubdued, namely the <hi>Albans, Voſſcians, Tuſculans, Urians, Sabins,</hi> and <hi>Hernicaus</hi> after they had ſubdcued the ſaid neer neighbours, in <hi>Civitatem</hi> (ſaith <hi>Cicero) receperun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at is, they admitted them into the <hi>Roman</hi> priviledge, as if
+<pb n="5" facs="tcp:118317:4"/>they had been all one and the ſame City. By which meanes onely, they immediately enlarged at once the bounds of their Territory and Government; which at firſt reaching but fifteen miles beyond their wals, in ſo ſhort a ſpace fixt, were at to great a diſtance enlarged, as to compriſe all that which we now call <hi>Italy.</hi>
+               </p>
+               <p>All Hiſtorians (eſpecially <hi>Livy</hi> and his Commenta<g ref="char:EOLhyphen"/>tours) applaud this as a moſt prudent courſe of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> to be imitated by all the world, upon the ſame occaſion of Conqueſt made upon a neighbour inhabiting the ſame <hi>terra firma,</hi> or continent lying next the Con<g ref="char:EOLhyphen"/>querour, without a maine ſea ſubdividing them at an in<g ref="char:EOLhyphen"/>convenient diſtance.</p>
+               <p>For inſtance, even at home, almoſt at our doors in <hi>Wales,</hi> though all the great ones were extinct, yet wee had much adoe to hold it, yea we could not hold it with peace or profit againſt the common people, till they were incorporated with us. For though <hi>Edward</hi> the <hi>firſt</hi> was ſo kinde to them as to ſummon them to our <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> where they had liberty to vote, ſo as it was onely in order to the intereſt of their owne Country, yet becauſe their votes extended no further, they never tooke it as a courteſie; but contrariwiſe that liberty of voting upon a ſeparate and diſtinct intereſt, gave in<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o their mindes, ſtill to remember they were once a diſtinct Nation; upon which ſcore they ever flew out into <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebellion, till it quit<g ref="char:EOLhyphen"/>ted the notion of a diſtinct Nation or Province, and was incorporated with us by <hi>Henry</hi> the eight, made a member and brought under the ſame fundamentall Law with <hi>England.</hi> Since which time all Antipathies and Emulations have by this meanes been buried in oblivion.</p>
+               <p>But yet it may be that the incorporating of a conque<g ref="char:EOLhyphen"/>red neighbour Nation may not bee done haſtily, if wee
+<pb n="6" facs="tcp:118317:5"/>will have it ſolid. And therefore theſe two rules are to be obſerved:</p>
+               <p n="1">1 After the example of the <hi>Romans</hi> (thus far) to ex<g ref="char:EOLhyphen"/>tinguiſh the great families as to their <hi>intereſt</hi> and <hi>power,</hi> in, and over the common people. The reaſon is plaine, becauſe theſe are the onely available incendiaries of the common ſort, and will be the laſt that will ſorget their old condition.</p>
+               <p n="2">2 According to the patterne of the <hi>Romans,</hi> to admit the conquered by degrees unto an incorporation, as a triall whether the Commonalty will meetly ſettle; if ſo, well. But if the great ſpirits meane while grow impati<g ref="char:EOLhyphen"/>ent, and draw parties into freſh commotions, they will give new occaſion of laying them lower, more ſtript of power and eſtate, and to further puniſh their adherents. Which additional ſmart, being uneaſier then the former, and ſinking them into deeper deſpaire of delivering them<g ref="char:EOLhyphen"/>ſelves, they will with open armes, and thankfull hearts imbrace ſo high a favour, as to be received into a partici<g ref="char:EOLhyphen"/>pation of intereſt, and immunities with their Conque<g ref="char:EOLhyphen"/>rours, and will, as <hi>Wales</hi> did, ſoon forget thoſe deadly feudes, and ſodder into amity, as if all of one blood.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
